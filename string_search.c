@@ -1,3 +1,4 @@
+//to search a string in file
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
